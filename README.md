@@ -6,8 +6,8 @@ A machine learning API that predicts passenger survival on the Titanic using a R
 
 ### Run the API locally
 
-docker pull yourusername/titanic-survival-api:latest
-docker run -p 8000:8000 yourusername/titanic-survival-api:latest
+docker pull mmelka/titanic-survival-api:latest
+docker run -p 8000:8000 mmelka/titanic-survival-api:latest
 
 
 ### Use the API
